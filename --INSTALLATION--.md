@@ -1,4 +1,4 @@
-# Mprokolos
+# Automated Messages Installation
 
 1. Arxika ama thelete na kanete compile to programma katevaste sto AutoHotKey. https://www.autohotkey.com/
 2. Mporeite na kanete copy paste ton kodika apo to Taxi Service Notorious RP.ahk.
